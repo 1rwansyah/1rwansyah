@@ -1,40 +1,42 @@
-# Halo, Saya Muhammad Irwansyah 👋
+# Hi there, I'm Muhammad Irwansyah 👋
 
-Seorang pengembang web yang antusias dalam membangun aplikasi yang efisien, skalabel, dan user-friendly. Saya senang mengeksplorasi teknologi baru dan berkontribusi dalam proyek-proyek inovatif.
+I am a **Fullstack Web Developer** passionate about building scalable, user-friendly applications and solving complex problems through code. With a strong foundation in both frontend and backend technologies, I strive to deliver high-quality digital solutions.
 
-### 🛠️ Teknologi & Alat
+---
 
-| Kategori | Teknologi |
+### 🚀 About Me
+
+- 👨‍💻 My GitHub: **[1rwansyah](https://github.com/1rwansyah)**
+- 🎓 Continuous learner focused on modern web ecosystems.
+- 💼 Open to collaboration and new opportunities in Fullstack Development.
+- 📫 Reach me at: **irwansyah24242@gmail.com**
+
+---
+
+### 🛠 Tech Stack
+
+I specialize in JavaScript and PHP ecosystems, with experience in managing databases and cloud services:
+
+| Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React, Next.js, JavaScript, TypeScript |
-| **Backend** | PHP, Laravel, Express.js |
-| **Database** | PostgreSQL (pgAdmin), Supabase |
+| **Frontend** | React.js, Next.js, JavaScript, TypeScript |
+| **Backend** | Laravel (PHP), Express.js (Node.js) |
+| **Database & Tools** | Supabase, pgAdmin (PostgreSQL), MySQL |
+| **Other** | Git, RESTful APIs, MVC Architecture |
 
 ---
 
-### 🚀 Tentang Saya
-- 🔭 Sedang mengerjakan proyek berbasis **React** dan **Next.js**.
-- 🌱 Terus mendalami ekosistem **TypeScript** dan arsitektur backend.
-- 💬 Tanya saya tentang **Laravel** atau pengembangan **Fullstack**.
-- 📫 Cara menghubungi saya: [irwansyah24242@gmail.com](mailto:irwansyah24242@gmail.com)
+### 📊 GitHub Stats
 
----
-
-### 📊 Statistik GitHub
-![Statistik GitHub Irwansyah](https://github-readme-stats.vercel.app/api?username=1rwansyah&show_icons=true&theme=radical)
+![Irwansyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=1rwansyah&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1rwansyah&layout=compact&theme=radical)
 
 ---
 
-### 📱 Hubungi Saya
-<p align="left">
-<a href="mailto:irwansyah24242@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/1rwansyah" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-</p>
+### 📬 Connect with Me
+
+- **Email:** [irwansyah24242@gmail.com](mailto:irwansyah24242@gmail.com)
+- **GitHub:** [github.com/1rwansyah](https://github.com/1rwansyah)
 
 ---
-*Dibuat dengan ❤️ oleh [1rwansyah](https://github.com/1rwansyah)*
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
