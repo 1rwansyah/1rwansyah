@@ -1,50 +1,63 @@
-# Halo, Saya Muhammad Irwansyah! 👋
+# Muhammad Irwansyah | Full-Stack Developer
 
-### Full-stack Developer | Next.js • Laravel • TypeScript
+![GitHub followers](https://img.shields.io/github/followers/1rwansyah?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/1rwansyah?style=social)
 
-Saya adalah seorang Full-stack Developer yang senang membangun aplikasi web yang skalabel dan berperforma tinggi. Saya memiliki keahlian dalam bekerja dengan ekosistem JavaScript modern dan framework PHP yang kuat.
+## 👋 About Me
+
+Hello! I'm **Muhammad Irwansyah**, a passionate full-stack developer specializing in modern web technologies. I enjoy building scalable applications and solving complex problems with clean, efficient code.
+
+- 📧 **Email:** [irwansyah24242@gmail.com](mailto:irwansyah24242@gmail.com)
+- 🔗 **GitHub:** [github.com/1rwansyah](https://github.com/1rwansyah)
+
+## 🛠️ Tech Stack
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Backend Development**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### **Databases & Tools**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Irwansyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=1rwansyah&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1rwansyah&layout=compact&theme=radical)
+
+## 🚀 Featured Projects
+
+Here are some of my notable projects:
+
+1. **[Project Name]** - Brief description
+   - Tech: React, Node.js, PostgreSQL
+   - [Live Demo](#) | [Repository](#)
+
+2. **[Project Name]** - Brief description
+   - Tech: Laravel, React, Supabase
+   - [Live Demo](#) | [Repository](#)
+
+3. **[Project Name]** - Brief description
+   - Tech: Next.js, TypeScript, Express
+   - [Live Demo](#) | [Repository](#)
+
+## 📫 Let's Connect!
+
+Feel free to reach out if you want to collaborate on a project, have questions, or just want to connect!
+
+- **Email:** [irwansyah24242@gmail.com](mailto:irwansyah24242@gmail.com)
+- **GitHub:** [@1rwansyah](https://github.com/1rwansyah)
 
 ---
 
-### 🚀 Tentang Saya
-- 🔭 Saat ini saya sedang mengerjakan proyek berbasis **Next.js & Laravel**
-- 🌱 Saya sedang mendalami **System Design & Cloud Architecture**
-- 💬 Tanya saya tentang **Next.js, React, Laravel, Express, atau integrasi Supabase.**
-- 📫 Kontak saya di: **irwansyah24242@gmail.com**
-
-### 🛠️ Tech Stack
-#### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-#### Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=pgadmin&logoColor=white" />
-</p>
-
-### 📊 Statistik GitHub
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=1rwansyah&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik Muhammad Irwansyah" height="150" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rwansyah&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Populer" height="150" />
-</p>
-
----
-
-### 🤝 Mari Terhubung!
-<p align="left">
-<a href="mailto:irwansyah24242@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
-</p>
-
----
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+⭐ *From [1rwansyah](https://github.com/1rwansyah)*
