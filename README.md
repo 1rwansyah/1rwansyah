@@ -25,9 +25,9 @@ Saat ini, saya juga aktif mengintegrasikan **Google Gemini AI** untuk solusi cer
 * Otomatisasi pendataan stok berbasis Gemini AI dan fitur Scan Barcode untuk manajemen barang yang lebih cepat.
 
 ### 🤖 AI Travel 
-**Next.js | Supabase | Google Gemini AI**
-*Menyusun itinerary perjalanan personal secara otomatis menggunakan kecerdasan Gemini AI berdasarkan preferensi pengguna.
-*Manajemen data terpusat menggunakan Supabase untuk penyimpanan itinerary yang terstruktur dan mudah dikelola.
+**Next.js | Google Gemini AI | Supabase**
+* Menyusun itinerary perjalanan personal secara otomatis menggunakan kecerdasan Gemini AI berdasarkan preferensi pengguna.
+* Manajemen data terpusat menggunakan Supabase untuk penyimpanan itinerary yang terstruktur dan mudah dikelola.
 
 ### ⭕  CircleApp – Twitter Clone
 **React Vite | Express.js | PostgreSQL | Socket.io**
